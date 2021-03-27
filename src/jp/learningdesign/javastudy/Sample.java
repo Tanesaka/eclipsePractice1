@@ -3,9 +3,14 @@ package jp.learningdesign.javastudy;
 public class Sample {
 
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+//		 ä¸‹è¨˜ã§å‡ºåŠ›
 		System.out.println("Hello eclipse");
 
 	}
 
 }
+
+/** Javadocå½¢å¼
+ * author: Yuji Tanesaka
+ * url: ~~
+ */
